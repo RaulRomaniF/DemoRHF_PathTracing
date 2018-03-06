@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	
+	</style>
+	<title>Path traacing</title>
+</head>
+<body onload="Init();">
+
+	<div id="pathTracer" width="800" height="600">
+		<canvas id="gl-surface"  width="800" height="600">
+			Your browser does not support WEBGL, you can download a chrome browser <a href="http://chrome.google.com">here</a>.
+		</canvas>
+	</div>
+
+	<div id="result" width="800" height="600">
+		
+	</div>
+	<script src="libraries/async/dist/async.min.js"></script>
+	<script src="libraries/gl-matrix/dist/gl-matrix-min.js"></script>
+
+	<script src="app.js"></script>
+	<script src="util.js"></script>
+	<script src="Models.js"></script>
+	<script src="ObjLoader.js"></script>
+	<script src="RayTracingDemo.js"></script>
+</body>
+</html>

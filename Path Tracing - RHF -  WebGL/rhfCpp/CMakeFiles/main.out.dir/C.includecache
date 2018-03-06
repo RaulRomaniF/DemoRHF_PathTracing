@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Computer graphics/Path Tracing V2/rhfCpp/io_png.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+limits.h
+-
+png.h
+/home/raul/Computer graphics/Path Tracing V2/rhfCpp/png.h
+png.h
+-
+io_png.h
+/home/raul/Computer graphics/Path Tracing V2/rhfCpp/io_png.h
+
+/home/raul/Computer graphics/Path Tracing V2/rhfCpp/io_png.h
+stddef.h
+-
+

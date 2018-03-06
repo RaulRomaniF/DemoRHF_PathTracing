@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	
+	</style>
+	<title>Path tracing</title>
+</head>
+<!-- <body onload="Init();"> -->
+
+<body>	
+
+	<h2><span id="connected">{{ connected }}</span> 
+        users are on this page right now.</h2>
+
+	<div id="pathTracer" width="800" height="600">
+		<canvas id="gl-surface"  width="800" height="600">
+			Your browser does not support WEBGL, you can download a chrome browser <a href="http://chrome.google.com">here</a>.
+		</canvas>
+	</div>
+
+	<div id="result" width="800" height="600">
+		
+	</div>
+
+	<!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}"> -->
+
+
+	<script src="{{ url_for('static', filename='libraries/async/dist/async.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='libraries/gl-matrix/dist/gl-matrix-min.js') }}"></script>
+
+
+	<script src="{{ url_for('static', filename='app.js') }}"></script>
+	<script src="{{ url_for('static', filename='util.js') }}"></script>
+	<script src="{{ url_for('static', filename='Models.js') }}"></script>
+	<script src="{{ url_for('static', filename='ObjLoader.js') }}"></script>
+	<script src="{{ url_for('static', filename='RayTracingDemo.js') }}"></script>
+
+	<script src="{{ url_for('static', filename='jquery-1.11.1.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='socket.io.min.js') }}"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+        	Init(); //PATH TRACER
+        });
+    </script>
+
+
+</body>
+</html>

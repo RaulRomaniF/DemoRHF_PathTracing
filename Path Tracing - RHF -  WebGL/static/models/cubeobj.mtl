@@ -1,0 +1,84 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl 07___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material__36
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/A.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/A.png
+
+newmtl Material__37
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/B.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/B.png
+
+newmtl Material__38
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/C.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/C.png
+
+newmtl Material__39
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/D.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/D.png
+
+newmtl Material__40
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/E.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/E.png
+
+newmtl Material__41
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/F.png
+map_Ka /media/raul/Data/MCS Courses/II Ciclo/Graphics/Books/other books/opengl33_dev_cookbook_2013-master/Chapter6/GPUPathtracing_only/media/F.png
